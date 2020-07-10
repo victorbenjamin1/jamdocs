@@ -9,6 +9,15 @@
         }
       ]
     },
+    {}
+      "section": "Minhas publicações",
+      "topics": [
+        {
+          "title": "Como entregar uma visualização eficiente e evitar retrabalho?",
+          "slug": "getting-started"
+        }
+      ]
+    },
     {
       "section": "Setup",
       "topics": [
